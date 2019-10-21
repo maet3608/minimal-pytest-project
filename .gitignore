@@ -1,0 +1,10 @@
+__pycache__/
+.pytest_cache/
+.idea/
+cache_*/
+vds.egg-info/
+*.py[cod]
+*$py.class
+*.png
+*.pkl
+*.Identifier

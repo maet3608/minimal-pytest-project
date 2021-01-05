@@ -3,7 +3,7 @@ from setuptools import setup, find_packages
 import mymath
 
 setup(
-    name='mymath',
+    name=mymath.__name__,
     version=mymath.__version__,
     author='Author name',
     author_email='author@gmail.com',
